@@ -5,12 +5,12 @@ description: "AMZ Experience"
 url: "https://amztravel.us"
 baseurl: ""
 facebook_username: "amzexperience"
-twitter_username: ""
+twitter_username: false
 instagram_username: "amzexperience"
-github_username:  ""
-deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
+github_username:  false
+deviantart_username: false
+flickr_username: false
+discus_shortname: false
 share: true
 
 # Owner/author information
