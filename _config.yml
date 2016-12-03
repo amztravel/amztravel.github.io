@@ -1,12 +1,12 @@
 # Site settings
-title: PHOTORAMA
-email: ""
-description: "Photo Journal"
-url: "http://sunbliss.github.io"
-baseurl: "/photorama"
-facebook_username: ""
+title: AMZ Experience
+email: "info@amztravel.us"
+description: "AMZ Experience"
+url: "https://amztravel.us"
+baseurl: "/"
+facebook_username: "amzexperience"
 twitter_username: ""
-instagram_username: ""
+instagram_username: "amzexperience"
 github_username:  ""
 deviantart_username: ""
 flickr_username: ""
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   amzexperience
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
