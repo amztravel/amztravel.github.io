@@ -33,9 +33,11 @@ comments :
 
 # Internal nav
 nav:
-  - VIAGENS SOB MEDIDA: "http://amztravel.us/journal/"  
-  - EXPEDIÇÕES FOTOGRÁFICAS: "http://amztravel.us/photorama/journal/"
-  - EMPRESA: "http://amztravel.us/about/"
+  - A EMPRESA: "http://amztravel.us/journal/"  
+  - NEGÓCIOS: "http://amztravel.us/journal/"
+  - EVENTOS: "http://amztravel.us/about/"
+  - LAZER: "http://amztravel.us/about/"
+  - PORTUGAL E BRASIL: "http://amztravel.us/about/"
 
 # All translation keys
 translations:
