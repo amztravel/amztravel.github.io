@@ -33,11 +33,11 @@ comments :
 
 # Internal nav
 nav:
-  - A EMPRESA: "http://amztravel.us/about/"  
-  - NEGÓCIOS: "http://amztravel.us/newsletter/"
-  - EVENTOS: "http://amztravel.us/journal/"
-  - LAZER: "http://amztravel.us/journal/"
-  - PORTUGAL E BRASIL: "http://amztravel.us/journal/"
+  - A EMPRESA: "http://amztravel.us/empresa/"  
+  - NEGÓCIOS: "http://amztravel.us/negocios/"
+  - EVENTOS: "http://amztravel.us/eventos/"
+  - LAZER: "http://amztravel.us/lazer/"
+  - PORTUGAL E BRASIL: "http://amztravel.us/portugal-brasil/"
 
 # All translation keys
 translations:
