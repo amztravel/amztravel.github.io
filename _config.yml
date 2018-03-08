@@ -35,9 +35,9 @@ comments :
 nav:
   - A EMPRESA: "http://amztravel.us/journal/"  
   - NEGÓCIOS: "http://amztravel.us/journal/"
-  - EVENTOS: "http://amztravel.us/about/"
-  - LAZER: "http://amztravel.us/about/"
-  - PORTUGAL & BRASIL: "http://amztravel.us/about/"
+  - EVENTOS: "http://amztravel.us/journal/"
+  - LAZER: "http://amztravel.us/journal/"
+  - PORTUGAL E BRASIL: "http://amztravel.us/journal/"
 
 # All translation keys
 translations:
