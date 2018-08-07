@@ -1,7 +1,7 @@
 # Site settings
-title: AMZ Experience
+title: AMZ TRAVEL
 email: "info@amztravel.us"
-description: "AMZ Experience"
+description: "AMZ TRAVEL"
 url: "https://amztravel.us"
 baseurl: ""
 facebook_username: "amzexperience"
@@ -33,13 +33,11 @@ comments :
 
 # Internal nav
 nav:
-  - A EMPRESA: "http://amztravel.us/empresa/"  
-  - NEGÓCIOS: "http://amztravel.us/negocios/"
-  - EVENTOS: "http://amztravel.us/eventos/"
-  - INTERNATIONAL HAPPINESS FORUM: "http://amztravel.us/ihappiness/"
-  - LAZER: "http://amztravel.us/lazer/"
-  - PORTUGAL E BRASIL: "http://amztravel.us/portugal-brasil/"
-
+  - PROMOÇÔES: "http://amztravel.us/lazer/"
+  - EXPEDIÇÕES: "http://amztravel.us/negocios/"
+  - EXPERIÊNCIAS: "http://amztravel.us/portugal-brasil/"
+  - SOBRE NÓS: "http://amztravel.us/empresa/"
+  - INTERNATIONAL HAPPINESS FORUM: "http://amztravel.us/ihappiness/"  
 # All translation keys
 translations:
  # 404.html
